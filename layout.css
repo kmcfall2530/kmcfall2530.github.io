@@ -1,0 +1,16 @@
+@charset "utf-8";
+.h1 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	text-align: center;
+	color: aqua;
+}
+
+.p {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	text-align: left;
+}
+
+.article {
+	border-top: thick;
+	border-bottom: thick;
+}
